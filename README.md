@@ -1,5 +1,5 @@
 # Image Classification: Sign-Language-MNIST data set
-The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify different items of clothing.  
+The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify the 26 letters of the English alphabet.  
 
 This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
 
@@ -10,12 +10,13 @@ The model is comprised of a sequential group of layers, as follows:
 - Conv2D
 - MaxPooling2D
 - Flatten
+- Dropout
 - Dense
 - Dense
 
 ## Data
 The original data set is the following:  
--	[Fashion-MNIST Data Set](https://github.com/zalandoresearch/fashion-mnist)
+-	[Sign-Language-MNIST Data Set](https://drive.google.com/uc?id=1z0DkA9BytlLxO1C0BAWzknLyQmZAp0HR)
 
 ## Tools
 Programming language: **Python**  
