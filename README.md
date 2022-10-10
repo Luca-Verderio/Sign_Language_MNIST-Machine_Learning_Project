@@ -1,5 +1,5 @@
 # Image Classification: Sign-Language-MNIST data set
-The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify the 26 letters of the English alphabet.  
+The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to classify the 26 letters of the English sign language alphabet.  
 
 This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
 
